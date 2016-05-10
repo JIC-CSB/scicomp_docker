@@ -1,4 +1,4 @@
-FROM centos_python_pip
+FROM jicscicomp/centos_python_pip
 MAINTAINER Matthew Hartley <Matthew.Hartley@jic.ac.uk>
 
 RUN yum install -y \

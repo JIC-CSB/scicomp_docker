@@ -1,4 +1,4 @@
-FROM scientific_python
+FROM jicscicomp/scientific_python
 MAINTAINER Matthew Hartley <Matthew.Hartley@jic.ac.uk>
 
 RUN yum install -y epel-release
