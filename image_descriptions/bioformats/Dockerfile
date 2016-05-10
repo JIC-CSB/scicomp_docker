@@ -1,4 +1,4 @@
-FROM image_python
+FROM jicscicomp/image_python
 MAINTAINER Matthew Hartley <Matthew.Hartley@jic.ac.uk>
 
 RUN yum install -y java
